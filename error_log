@@ -1,0 +1,24 @@
+[24-Aug-2023 12:22:10 UTC] PHP Warning:  require(/home/diyarnaa/public_html/vendor/composer/../ezyang/htmlpurifier/library/HTMLPurifier.composer.php): Failed to open stream: No such file or directory in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
+[24-Aug-2023 12:22:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/diyarnaa/public_html/vendor/composer/../ezyang/htmlpurifier/library/HTMLPurifier.composer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/diyarnaa/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/diyarnaa/public_html/vendor/composer/autoload_real.php(38): composerRequire8e0e17705913ea86e20bf184a63c4872()
+#1 /home/diyarnaa/public_html/vendor/autoload.php(12): ComposerAutoloaderInit8e0e17705913ea86e20bf184a63c4872::getLoader()
+#2 /home/diyarnaa/public_html/index.php(34): require('/home/diyarnaa/...')
+#3 {main}
+  thrown in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
+[24-Aug-2023 12:22:11 UTC] PHP Warning:  require(/home/diyarnaa/public_html/vendor/composer/../ezyang/htmlpurifier/library/HTMLPurifier.composer.php): Failed to open stream: No such file or directory in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
+[24-Aug-2023 12:22:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/diyarnaa/public_html/vendor/composer/../ezyang/htmlpurifier/library/HTMLPurifier.composer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/diyarnaa/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/diyarnaa/public_html/vendor/composer/autoload_real.php(38): composerRequire8e0e17705913ea86e20bf184a63c4872()
+#1 /home/diyarnaa/public_html/vendor/autoload.php(12): ComposerAutoloaderInit8e0e17705913ea86e20bf184a63c4872::getLoader()
+#2 /home/diyarnaa/public_html/index.php(34): require('/home/diyarnaa/...')
+#3 {main}
+  thrown in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
+[24-Aug-2023 12:22:35 UTC] PHP Warning:  require(/home/diyarnaa/public_html/vendor/composer/../guzzlehttp/promises/src/functions_include.php): Failed to open stream: No such file or directory in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
+[24-Aug-2023 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/diyarnaa/public_html/vendor/composer/../guzzlehttp/promises/src/functions_include.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/diyarnaa/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/diyarnaa/public_html/vendor/composer/autoload_real.php(38): composerRequire8e0e17705913ea86e20bf184a63c4872()
+#1 /home/diyarnaa/public_html/vendor/autoload.php(12): ComposerAutoloaderInit8e0e17705913ea86e20bf184a63c4872::getLoader()
+#2 /home/diyarnaa/public_html/index.php(34): require('/home/diyarnaa/...')
+#3 {main}
+  thrown in /home/diyarnaa/public_html/vendor/composer/autoload_real.php on line 55
